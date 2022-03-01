@@ -1,0 +1,58 @@
+segment_sources:
+  P061CA6F6:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCA930DA2:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8C2257CB:
+    type: origin_type
+    relation: translation
+    language: bo
+  P336DFD08:
+    type: origin_type
+    relation: translation
+    language: en
+  P561795A1:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  fd156f77c12a43aeaef2b09208a5a7b9:
+    P061CA6F6: 3743348eac244260bcfea58e7c1f58f1
+    PCA930DA2: cd81a34bcda44cdd8f2169a5d99813c2
+    P8C2257CB: 41a1748a5f4241c0ad5c6fb38dd175d3
+    P336DFD08: 75cb6add2ff743eb9e2d2b9f713a7a70
+    P561795A1: 94b15a63afad400194dc7ca511fd0d46
+  51a7f0f26c584ea6927ee54ff7e215bf:
+    P061CA6F6: 7dcc9700f7894304abac285c9d6118ac
+    PCA930DA2: f8ba9b4164ad4df9880ab6620d9f8a6b
+    P8C2257CB: fe97826a7e6a496c99c76c3c843f8c24
+    P336DFD08: 6f92633fde1a47ed843790fbbaa6e70c
+    P561795A1: 1081aeddc567407f829b480cb0cf04e5
+  c941fbfe578048d19f2095931a750d43:
+    P061CA6F6: 5e423cc23d9c42338c12960ecb9bb4c2
+    PCA930DA2: b40ec97db09549caab3f488aca51052b
+    P8C2257CB: ff0d4c05568f4729b1ccda77b2a30e47
+    P336DFD08: be25958b1635488ea7040cc8f03833c3
+    P561795A1: 9261b0721998448bb241b6178c8a1f7b
+  bd4392bfec6442f28cacaf8b07c537f9:
+    P061CA6F6: 21853a6015b94d7abb14c14eac76c163
+    PCA930DA2: d0f9ee82c9624c47846b1f63cc880148
+    P8C2257CB: 0bb2895b627c42e4aeb13474eb3a411d
+    P336DFD08: 1f69ca42d5a146b69a52e4a1441aafd5
+    P561795A1: 69c8301bbf28485f98ca5c93216e90eb
+  6f7b0be10d17466693cb9cb0d25b827b:
+    P061CA6F6: 9504749f7bfd4906bf0f59be86a7c072
+    PCA930DA2: 6fea79d40a454df9a3c34a5466dde3bc
+    P8C2257CB: 1ccf621170e0469591e866a9cee6066d
+    P336DFD08: d28a89d5eeb34b0d9fae8a29afcc1bae
+    P561795A1: 209aa1368aba4de582b2abc2df27ef93
+  e040af4ffd2746ac85b544a6f92819f5:
+    P061CA6F6: 863e91f6f397451b92c7fc37185b8c86
+    PCA930DA2: 90c9ad55b0664c76832cc546ca0c44e4
+    P8C2257CB: 2765b83cadda4cd492f5b31c39c744d7
+    P336DFD08: f3d17d589ef24001a09aa49b89d0a80c
+    P561795A1: 4252b24758ea495d9b5ae120b2d106d0

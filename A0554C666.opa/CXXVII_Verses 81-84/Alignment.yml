@@ -1,0 +1,52 @@
+segment_sources:
+  P061CA6F6:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCA930DA2:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8C2257CB:
+    type: origin_type
+    relation: translation
+    language: bo
+  P336DFD08:
+    type: origin_type
+    relation: translation
+    language: en
+  P561795A1:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  872bf758bf6049eea038bca0da0e5718:
+    P061CA6F6: None
+    PCA930DA2: None
+    P8C2257CB: 2f917eef49fb44268dda523616d23481
+    P336DFD08: None
+    P561795A1: None
+  a240b3d9553942a79094c6abbc94f796:
+    P061CA6F6: None
+    PCA930DA2: None
+    P8C2257CB: 7288e6c1faf742a4adb7b5ffd5620b15
+    P336DFD08: None
+    P561795A1: None
+  0bc105436b8f470287baead9d5eca73b:
+    P061CA6F6: None
+    PCA930DA2: None
+    P8C2257CB: 6e12d51cbad946c99797f8b90a72a891
+    P336DFD08: None
+    P561795A1: None
+  1caa7ff2e7624e83870fba9f49973032:
+    P061CA6F6: None
+    PCA930DA2: None
+    P8C2257CB: 615babac452344beaec429848b394e9b
+    P336DFD08: None
+    P561795A1: None
+  794c7210cbb04488aefdf4428e2ad511:
+    P061CA6F6: None
+    PCA930DA2: None
+    P8C2257CB: b416c8e412884c6b90bf6d49f465b368
+    P336DFD08: None
+    P561795A1: None

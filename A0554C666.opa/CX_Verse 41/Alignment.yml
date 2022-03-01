@@ -1,0 +1,34 @@
+segment_sources:
+  P061CA6F6:
+    type: origin_type
+    relation: translation
+    language: sa
+  PCA930DA2:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8C2257CB:
+    type: origin_type
+    relation: translation
+    language: bo
+  P336DFD08:
+    type: origin_type
+    relation: translation
+    language: en
+  P561795A1:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  087b3321f22f421ca53cdb021dd8931f:
+    P061CA6F6: e07fc9d9e3764dafa5c58847f45e4823
+    PCA930DA2: a97b8f2347cf4154b695b66022501629
+    P8C2257CB: f939bc1f77fe4ab18deb38a43a25d727
+    P336DFD08: f554d89c6d0542adbf4a2a227edd7db2
+    P561795A1: 4e045a03ecc5468f84b34f97cb44e278
+  eba75c35b48e403cad7ce65d5152d1c6:
+    P061CA6F6: 6f69b38782be4295a9253c5fbe1d141c
+    PCA930DA2: ec0ae526ace14482b151d87d9a61d8b0
+    P8C2257CB: 30336bc7cc364b639bec00bc8c83772e
+    P336DFD08: d51db77bbe64480aaba5b23191951726
+    P561795A1: 22321d7f05134e60b3c97d504ebb64be
